@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DaShan Pryor - Prophetic Poet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 2em 0;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 2em;
+        }
+        .links a {
+            display: block;
+            color: #1a73e8;
+            text-decoration: none;
+            margin: 0.5em 0;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>DaShan Pryor - Prophetic Poet</h1>
+</header>
+
+<div class="container">
+    <div class="section">
+        <h2>About Me</h2>
+        <p>My name is DaShan Pryor. I’m a 27-year-old from the Southside of Chicago, raising twin daughters and striving to provide them with a better future than I had. As a musician known as Prophetic Poet, I use my craft to express my experiences and aspirations.</p>
+    </div>
+    
+    <div class="section">
+        <h2>Projects & Achievements</h2>
+        <p>As Prophetic Poet, I've been featured in various in-person interviews, online articles, and magazines that showcase my brand and musical journey. Here are some of the highlights:</p>
+        <div class="links">
+            <a href="https://www.buzz-music.com/post/prophetic-poet-turns-up-the-heat-on-latest-release-don-t-tweak" target="_blank">Buzz Music: Prophetic Poet Turns Up the Heat on Latest Release "Don't Tweak"</a>
+            <a href="https://open.spotify.com/episode/3I91mPCBMdZ4XDd6fBP9Gx?si=Qo8yFN3XQk2DEaMbGC-Umg" target="_blank">Spotify Interview</a>
+            <a href="https://levelupmag.com/prophetic-poet-shows-how-evolution-leads-to-unprecedented-growth/" target="_blank">Level Up Magazine: Prophetic Poet Shows How Evolution Leads to Unprecedented Growth</a>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>Contact</h2>
+        <p>You can reach out to me through the following platforms:</p>
+        <ul>
+            <li>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
+            <li>Twitter: <a href="https://twitter.com/yourprofile" target="_blank">@yourprofile</a></li>
+            <li>Instagram: <a href="https://instagram.com/yourprofile" target="_blank">@yourprofile</a></li>
+        </ul>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 DaShan Pryor. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
